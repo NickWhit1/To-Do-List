@@ -11,8 +11,8 @@ body {
     
 }
 
-h1 {
-    color: rgb(0, 0, 0);
+.todo {
+    color: rgb(97, 95, 95);
     align-content: center;
     text-shadow: 1px 1px white;
 }
