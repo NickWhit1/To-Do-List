@@ -6,8 +6,8 @@ html, body {
     }
 
 body {
-    background-image: url(./image/MoonWater.jpg);
-    background-size: cover;
+    background-image: url(./image/Moon-Background.jpg);
+    background-position: center;
     
 }
 
