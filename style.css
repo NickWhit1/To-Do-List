@@ -12,9 +12,9 @@ body {
 }
 
 .todo {
-    color: rgb(97, 95, 95);
+    color: rgb(24, 23, 23);
     align-content: center;
-    text-shadow: 1px 1px white;
+    text-shadow: 1px 1px rgb(0, 0, 0);
 }
 
 .container {
